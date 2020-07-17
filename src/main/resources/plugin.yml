@@ -1,0 +1,9 @@
+name: Phantom
+version: ${project.version}
+main: uk.co.hopperelec.mc.phantom.Main
+api-version: 1.14
+prefix: Phantom
+authors: [HopperElecYT]
+description: Plugin for Phantom_Meme
+website: hopperelec.co.uk
+depend: [Citizens]
